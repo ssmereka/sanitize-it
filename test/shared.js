@@ -1,5 +1,5 @@
 var assert   = require('assert'),
-    sanitize = require('../modules/sanitize');
+    sanitize = require('../lib/sanitize');
 
 exports.shouldSanitizeStrings = function() {
   it('should return undefined if the parameter was null, undefined, "null", or "undefined".', function() {

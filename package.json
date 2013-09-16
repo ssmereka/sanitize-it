@@ -2,7 +2,7 @@
   "name": "sanitize-it",
   "description": "Sanitize client submitted values so that they are handled correctly by the server side javascript.",
   "author": "Scott Smereka",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type" : "git",
     "url"  : "https://github.com/ssmereka/sanitize-it"

@@ -1,6 +1,6 @@
 var assert   = require('assert'),
     shared   = require('./shared'),
-    sanitize = require('../modules/sanitize');
+    sanitize = require('../lib/sanitize');
 
 describe('sanitize', function() {
   
